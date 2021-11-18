@@ -46,7 +46,7 @@ header h1 {
     background-position: center;
     position: relative;
   }
-  /* Hero Style End */
+
   .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
@@ -88,7 +88,7 @@ header h1 {
     padding: 10px 20px;
     font-size: 16px;
   }
-
+ /* Hero Style End */
   section {
     padding: 60px;
   }
